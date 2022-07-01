@@ -1,0 +1,4 @@
+﻿  Bai173.cpp
+C:\Users\VuTran\source\repos\Chuong03\Bai173\Bai173.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong03\Bai173\Bai173.cpp(38,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai173.vcxproj -> C:\Users\VuTran\source\repos\Chuong03\Debug\Bai173.exe

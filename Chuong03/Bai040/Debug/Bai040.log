@@ -1,0 +1,5 @@
+﻿  Bai040.cpp
+C:\Users\VuTran\source\repos\Chuong03\Bai040\Bai040.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong03\Bai040\Bai040.cpp(32,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\Chuong03\Bai040\Bai040.cpp(67,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Bai040.vcxproj -> C:\Users\VuTran\source\repos\Chuong03\Debug\Bai040.exe

@@ -1,0 +1,4 @@
+﻿  Bai011.cpp
+C:\Users\VuTran\source\repos\TruuTuongHoaDuLieu\Bai011\Bai011.cpp(88,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\TruuTuongHoaDuLieu\Bai011\Bai011.cpp(89,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai011.vcxproj -> C:\Users\VuTran\source\repos\TruuTuongHoaDuLieu\Debug\Bai011.exe

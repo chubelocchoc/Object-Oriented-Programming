@@ -1,0 +1,4 @@
+﻿  Bai004.cpp
+C:\Users\VuTran\source\repos\ChuongDeQuy\Bai004\Bai004.cpp(14,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\ChuongDeQuy\Bai004\Bai004.cpp(23,28): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Bai004.vcxproj -> C:\Users\VuTran\source\repos\ChuongDeQuy\Debug\Bai004.exe

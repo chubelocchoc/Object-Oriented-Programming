@@ -1,0 +1,5 @@
+﻿  Bai010.cpp
+C:\Users\VuTran\source\repos\Chuong02\Bai010\Bai010.cpp(41,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai010\Bai010.cpp(42,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai010\Bai010.cpp(43,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Bai010.vcxproj -> C:\Users\VuTran\source\repos\Chuong02\Debug\Bai010.exe

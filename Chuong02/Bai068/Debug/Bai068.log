@@ -1,0 +1,32 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Bai068.vcxproj, Bai068to080.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bai068to100.cpp
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(45,6): warning C4101: 'a': unreferenced local variable
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(186,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(287,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(306,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(367,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(371,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(376,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(388,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(394,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(407,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(412,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(420,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(430,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(483,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(504,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(510,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(532,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(554,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(574,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(581,10): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(594,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(611,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(628,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(645,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(664,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(683,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(699,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(715,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\Chuong02\Bai068\Bai068to100.cpp(734,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Bai068.vcxproj -> C:\Users\VuTran\source\repos\Chuong02\Debug\Bai068to100.exe

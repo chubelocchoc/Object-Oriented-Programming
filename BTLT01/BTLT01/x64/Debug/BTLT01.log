@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\VuTran\source\repos\BTLT01\BTLT01\Quadrilateral.h(153,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Quadrilateral.cpp
+C:\Users\VuTran\source\repos\BTLT01\BTLT01\Quadrilateral.h(153,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  BTLT01.vcxproj -> C:\Users\VuTran\source\repos\BTLT01\x64\Debug\BTLT01.exe

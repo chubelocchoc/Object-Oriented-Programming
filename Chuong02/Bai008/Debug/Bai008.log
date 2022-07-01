@@ -1,4 +1,0 @@
-﻿  Bai008.cpp
-C:\Users\VuTran\source\repos\Chuong02\Bai008\Bai008.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\VuTran\source\repos\Chuong02\Bai008\Bai008.cpp(34,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  Bai008.vcxproj -> C:\Users\VuTran\source\repos\Chuong02\Debug\Bai008.exe

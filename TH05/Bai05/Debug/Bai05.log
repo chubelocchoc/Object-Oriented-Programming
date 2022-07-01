@@ -1,0 +1,26 @@
+﻿  aGiaSuc.cpp
+C:\Users\VuTran\source\repos\TH05\Bai05\aGiaSuc.h(34,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\aGiaSuc.h(51,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  bBo.cpp
+C:\Users\VuTran\source\repos\TH05\Bai05\aGiaSuc.h(34,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\aGiaSuc.h(51,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\bBo.h(23,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cCuu.cpp
+C:\Users\VuTran\source\repos\TH05\Bai05\aGiaSuc.h(34,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\aGiaSuc.h(51,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\cCuu.h(23,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dDe.cpp
+  eNongTrai.cpp
+C:\Users\VuTran\source\repos\TH05\Bai05\aGiaSuc.h(34,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\aGiaSuc.h(51,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\bBo.h(23,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\cCuu.h(23,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\dDe.h(23,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+C:\Users\VuTran\source\repos\TH05\Bai05\aGiaSuc.h(34,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\aGiaSuc.h(51,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\bBo.h(23,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\cCuu.h(23,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai05\dDe.h(23,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Bai05.vcxproj -> C:\Users\VuTran\source\repos\TH05\Debug\Bai05.exe

@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\VuTran\source\repos\TH03\Bai05\Point.h(27,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\TH03\Bai05\main.cpp(6,15): warning C4101: 'hbh': unreferenced local variable
+  Point.cpp
+C:\Users\VuTran\source\repos\TH03\Bai05\Point.h(27,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Bai05.vcxproj -> C:\Users\VuTran\source\repos\TH03\Debug\Bai05.exe

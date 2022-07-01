@@ -1,9 +1,0 @@
-﻿  Bai027to048.cpp
-C:\Users\VuTran\source\repos\Chuong02\Bai027to048\Bai027to048.cpp(126,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\VuTran\source\repos\Chuong02\Bai027to048\Bai027to048.cpp(319,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\VuTran\source\repos\Chuong02\Bai027to048\Bai027to048.cpp(333,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\VuTran\source\repos\Chuong02\Bai027to048\Bai027to048.cpp(347,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\VuTran\source\repos\Chuong02\Bai027to048\Bai027to048.cpp(361,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\VuTran\source\repos\Chuong02\Bai027to048\Bai027to048.cpp(375,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\VuTran\source\repos\Chuong02\Bai027to048\Bai027to048.cpp(389,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-  Bai027to048.vcxproj -> C:\Users\VuTran\source\repos\Chuong02\Debug\Bai027to048.exe

@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\VuTran\source\repos\TH05\Bai02,03,04\bPolygon.h(92,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai02,03,04\dParallelogram.h(27,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai02,03,04\eRectange.h(26,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\VuTran\source\repos\TH05\Bai02,03,04\fSquare.h(9,79): warning C4805: '!=': unsafe mix of type 'bool' and type 'float' in operation
+C:\Users\VuTran\source\repos\TH05\Bai02,03,04\fSquare.h(9,111): warning C4805: '!=': unsafe mix of type 'bool' and type 'float' in operation
+C:\Users\VuTran\source\repos\TH05\Bai02,03,04\fSquare.h(26,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Bai02,03,04.vcxproj -> C:\Users\VuTran\source\repos\TH05\Debug\Bai02,03,04.exe

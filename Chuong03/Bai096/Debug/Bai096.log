@@ -1,6 +1,0 @@
-﻿  Bai096.cpp
-C:\Users\VuTran\source\repos\Chuong03\Bai096\Bai096.cpp(19,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\VuTran\source\repos\Chuong03\Bai096\Bai096.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\VuTran\source\repos\Chuong03\Bai096\Bai096.cpp(43,11): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-C:\Users\VuTran\source\repos\Chuong03\Bai096\Bai096.cpp(45,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-  Bai096.vcxproj -> C:\Users\VuTran\source\repos\Chuong03\Debug\Bai096.exe

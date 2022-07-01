@@ -1,0 +1,6 @@
+﻿  TestCandidate.cpp
+C:\Users\VuTran\source\repos\TH01\Bai03\Candidate.h(34,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\VuTran\source\repos\TH01\Bai03\Candidate.h(34,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Bai03.vcxproj -> C:\Users\VuTran\source\repos\TH01\x64\Debug\Bai03.exe

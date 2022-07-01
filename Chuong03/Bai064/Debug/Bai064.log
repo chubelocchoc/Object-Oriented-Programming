@@ -1,3 +1,0 @@
-﻿  Bai064.cpp
-C:\Users\VuTran\source\repos\Chuong03\Bai064\Bai064.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Bai064.vcxproj -> C:\Users\VuTran\source\repos\Chuong03\Debug\Bai064.exe

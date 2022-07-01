@@ -1,5 +1,0 @@
-﻿  Bai028.cpp
-C:\Users\VuTran\source\repos\Chuong03\Bai028\Bai028.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\VuTran\source\repos\Chuong03\Bai028\Bai028.cpp(33,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\VuTran\source\repos\Chuong03\Bai028\Bai028.cpp(45): warning C4715: 'DuongDau': not all control paths return a value
-  Bai028.vcxproj -> C:\Users\VuTran\source\repos\Chuong03\Debug\Bai028.exe
